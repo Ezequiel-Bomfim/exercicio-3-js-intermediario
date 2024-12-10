@@ -1,0 +1,21 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.preto{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+.azul{
+    background-color: blue;
+}
